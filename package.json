@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Dallago <code@dallago.us> (https://github.com/sacdallago)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest",
+    "npm": "^5.8.0",
+    "pug": "latest"
+  }
+}
